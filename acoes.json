@@ -1,0 +1,14 @@
+{
+  "acoes": {
+    "KNRI11": {"valor_medio": 146.42, "proventos": 1},
+    "VISC11": {"valor_medio": 108.32, "proventos": 1},
+    "HGLG11": {"valor_medio": 159.37, "proventos": 1.1},
+    "KISU11": {"valor_medio": 8.04, "proventos": 0.08},
+    "TVRI11": {"valor_medio": 88.68, "proventos": 0.91},
+    "VGHF11": {"valor_medio": 9.2, "proventos": 0.1},
+    "XPML11": {"valor_medio": 101.53, "proventos": 0.9},
+    "XPGL11": {"valor_medio": 98.86, "proventos": 0.78},
+    "BCFF11": {"valor_medio": 8.16, "proventos": 0.07},
+    "MXRF11": {"valor_medio": 10.34, "proventos": 0.11}
+  }
+}
